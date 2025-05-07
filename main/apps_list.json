@@ -1,1 +1,17 @@
+[
+  {
+    "name": "Galerie Intelligente",
+    "version": "1.0.0",
+    "description": "Tri intelligent des photos par type de vêtement.",
+    "icon": "https://raw.githubusercontent.com/themaraudeur/app/main/assets/gallery.png",
+    "filename": "galerie_intelligente.py"
+  },
+  {
+    "name": "Gaming Hub",
+    "version": "1.0.0",
+    "description": "Contrôle centralisé de tes jeux avec stats live.",
+    "icon": "https://raw.githubusercontent.com/themaraudeur/app/main/assets/gaming.png",
+    "filename": "gaming_hub.py"
+  }
+]
 

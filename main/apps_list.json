@@ -1,13 +1,11 @@
-
 [
   {
     "name": "Calculatrice Pro",
-    "filename": "calculatrice.py",
-    "description": "Une calculatrice complète avec historique, conversion, etc.",
+    "filename": "https://raw.githubusercontent.com/themaraudeur/app/main/main/app/calculatrice_pro.py",
+    "icon": "https://raw.githubusercontent.com/themaraudeur/app/main/main/icône/calculatrice_pro.png",
     "version": "1.0",
-    "icon": "icons/calculatrice.png"
+    "description": "Une calculatrice avancée avec des fonctionnalités scientifiques."
   }
 ]
-
 
 
